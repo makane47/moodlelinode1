@@ -1,4 +1,4 @@
-## Readme
+## Readme kane
 
 Moodle Adminer is based on the great tool adminer (www.adminer.org).
 The main advantage of this plugin is, it can handle different types of database.
